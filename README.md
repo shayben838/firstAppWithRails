@@ -1,4 +1,5 @@
-Complete ruby on rails developer
+My first ruby on rails app.
+for learning purpose.
 
 <!-- # README
 
